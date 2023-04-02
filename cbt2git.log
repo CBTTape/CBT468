@@ -1,0 +1,5 @@
+2023-04-03 00:29:20.606858 - Initialized conversion of CBT468
+2023-04-03 00:29:20.624312 - Received CBT.V504.FILE468.PDS from FILE468.XMI 
+2023-04-03 00:29:20.627135 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE468.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:29:20.628264 - Found @FILE468.txt (text/plain) in CBT.V504.FILE468.PDS, moved to PDS/@FILE468
+2023-04-03 00:29:20.629273 - Found DUMMY.txt (text/plain) in CBT.V504.FILE468.PDS, moved to PDS/DUMMY
